@@ -37,7 +37,7 @@ body {
 
 .product-details {
   width: 90%;
-  margin: 0 auto;
+  margin: 15px auto;
 }
 .product-details__category {
   font-family: var(--font-family-ms);
@@ -89,4 +89,5 @@ body {
     border: transparent;
     font-family: var(--font-family-ms);
     font-weight: 700;
+
 }
